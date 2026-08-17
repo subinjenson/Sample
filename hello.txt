@@ -1,4 +1,3 @@
 Hello Github
-conflict-branch
 first file
 this is on test branch
